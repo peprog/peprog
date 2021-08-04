@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+ </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peprog&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 <!--
 **peprog/peprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

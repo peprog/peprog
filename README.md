@@ -14,6 +14,18 @@
 
  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=peprog&theme=react-dark&hide_border=true&area=true)
 
+
+
+<div style="display:flex">	
+    <img src ="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+    <img src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img src ="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+     <img src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+    <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src ="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+
+</div>
+
 <!--
 **peprog/peprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -9,6 +9,14 @@
   </a>
 </p> -->
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Crowd funding project over blockchin
+- 🌱 I’m currently learning GRPC, Blockchin security
+- 💬 Ask me about anything
+- 📫 How to reach me: masoud.motallebipour@gmail.com
+- ⚡ Fun fact: It's fun working with me! :)
+
 <!--  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=peprog&theme=react-dark&hide_border=true&area=true) -->
 
 I have experience working with these languages:
@@ -39,7 +47,7 @@ And these frameworks:
  
  <div style="display:flex">	
  <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- <img src =" https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  </div>
  
  And these technologies: 
@@ -51,15 +59,8 @@ And these frameworks:
 
 <!-- **peprog/peprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Crowd funding project over blockchin
-- 🌱 I’m currently learning GRPC, Blockchin security
-- 💬 Ask me about anything
-- 📫 How to reach me: masoud.motallebipour@gmail.com
-- ⚡ Fun fact: It's fun working with me! :)
-
-<!-- !-- - 😄 Pronouns: ... --> -->
+<!-- !-- - 😄 Pronouns: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 🤔 I’m looking for help with ... 
 

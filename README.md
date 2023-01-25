@@ -55,10 +55,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Crowd funding project over blockchin
 - 🌱 I’m currently learning GRPC, Blockchin security
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
 - 📫 How to reach me: masoud.motallebipour@gmail.com
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: It's fun working with me! :)
+
+<!-- !-- - 😄 Pronouns: ... --> -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 

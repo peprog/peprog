@@ -11,8 +11,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Crowd funding project over blockchin
-- 🌱 I’m currently learning GRPC, Blockchin security
+<!-- - 🔭 I’m currently working on Crowd funding project over blockchin 
+- 🌱 I’m currently learning GRPC, Blockchin security -->
 - 💬 Ask me about anything
 - 📫 How to reach me: masoud.motallebipour@gmail.com
 - ⚡ Fun fact: It's fun working with me! :)
